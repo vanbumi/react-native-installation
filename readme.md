@@ -2,27 +2,25 @@
 
 ## React Native with CLI
 
-### Install Java sdk.
+## Install Java sdk.
 
 ![1-java sdk](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499910835/install-reactnative/1-java_sdk.png)
 
 ![2-java sdk 2](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499910938/install-reactnative/2-java_sdk_2.png)
 
-
-
-### Install nodejs.
+## Install nodejs.
 
 ![3-node js](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911179/install-reactnative/3-node_js.png)
 
 ![4-node js](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911271/install-reactnative/4-node_js.png)
 
-### Install python 2.
+## Install python 2.
 
 ![5-python2](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911353/install-reactnative/5-python2.png)
 
 ![6-python2](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911408/install-reactnative/6-python2.png)
 
-### Install "Android Studio"
+## Install "Android Studio"
 
 ![7-android studio](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911516/install-reactnative/7-android_studio.png)
 
@@ -34,47 +32,47 @@
 
 Your SDK Location
 
-### Open command run as administrator.
+## Open command run as administrator.
 
-### Cek version node -v
+## Cek version node -v
 
 ![11-cek versi node](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499912638/install-reactnative/11-cek_versi_node.png)
 
-### Install react native command line tool 
+## Install react native command line tool 
 	
 		npm install -g react-native-cli
 
 ![12-instal=react=native-cli](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_312,w_700/v1499912988/install-reactnative/12-instal_react_native-cli.png)
 
-### Get your own working space
+## Get your own working space
 
 ![13-pilih-workspace](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_108,w_700/v1499913286/install-reactnative/13-pilih-workspace.png)
 
-### Generate new app
+## Generate new app
 	
 		react-native init your-app-name
 
 ![14-membuat-aplikasi-baru](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_97,w_500/v1499913482/install-reactnative/14-membuat-aplikasi-baru.png)
 
-### Open android studio.
+## Open android studio.
 
 ![15-open-android-studio-open-existing](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_451,w_500/v1499913609/install-reactnative/15-open-android-studio-open-existing.png)
 
-### Open existing project > your-app-name.
+## Open existing project > your-app-name.
 
 ![16-open-existing-app](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_576,w_500/v1499913727/install-reactnative/16-open-existing-app.png)
 
-### Follow the process setup & fix error steps.
+## Follow the process setup & fix error steps.
 
 ![17-install-mising](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_167,w_700/v1499913847/install-reactnative/17-install-mising.png)
 
 ![18-install-missing](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_205,w_700/v1499913973/install-reactnative/18-install-missing.png)
 
-### Setup Android emulator.
+## Setup Android emulator.
 
 ![19-install-avd](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_376,w_700/v1499914112/install-reactnative/19-install-avd.png)
 
-###	Instal Haxm for better performance emulator.
+##	Instal Haxm for better performance emulator.
 	
 ![20-create-new-avd](http://res.cloudinary.com/medioxtra/image/upload/c_scale,h_590,w_700/v1499914253/install-reactnative/20-create-new-avd.png)
 
@@ -113,6 +111,8 @@ Your SDK Location
 ## Control + M to Open Menu
 
 ![33-controll-m-open-menu](http://res.cloudinary.com/medioxtra/image/upload/v1499915668/install-reactnative/33-controll-m-open-menu.png)
+
+## Done !
 
 ## Error and Solution
 
