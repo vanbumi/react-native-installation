@@ -26,11 +26,15 @@
 
 ![8-android studio](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911576/install-reactnative/8-android_studio.png)
 
+## Find Android-studio-bundle-xxx.xxx-windows
+
+		Click for Run Installation and follow through installation by click click until end.
+
 ![9-android studio](http://res.cloudinary.com/medioxtra/image/upload/c_scale,w_700/v1499911647/install-reactnative/9-android_studio.png)
 
-![10-simpan SDK](http://res.cloudinary.com/medioxtra/image/upload/v1499912358/install-reactnative/10-simpan_SDK.png)
+## Your SDK Location
 
-Your SDK Location
+![10-simpan SDK](http://res.cloudinary.com/medioxtra/image/upload/v1499912358/install-reactnative/10-simpan_SDK.png)
 
 ## Open command run as administrator.
 
